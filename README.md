@@ -1,7 +1,7 @@
 <h1>Hi, I'm Walid! <br/>
 <a href="https://www.linkedin.com/in/joshmadakor/">Cyber Security Analyst</a>
 <h2>🎓 Education:</h2>
-- <b>Master in Computer Science </b>
+- <b>Master in IT Security </b>
   - University of Passau 2022/2025<br/>
 - <b>Master in Architecture of System and Network </b>
   - University of Batna 2015/2017<br/>
