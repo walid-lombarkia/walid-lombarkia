@@ -1,6 +1,6 @@
 <h1>Hi, I'm Walid! <br/>
 <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
-<h2>👨‍💻 Education:</h2>
+<h2>🎓 Education:</h2>
 - <b>Master in Computer Science </b>
   - University of Passau 2022/2025<br/>
 - <b>Master in Architecture of System and Network </b>
@@ -12,8 +12,12 @@
 - <b>Data Analyst </b>
   - Fnpos 2022/2025
 
-<h2>👨‍💻 Certifications:</h2>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>📜 Certifications:</h2>
+
+
+
+
+<h2>🎯 Projects:</h2>
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
