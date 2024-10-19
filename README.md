@@ -1,5 +1,5 @@
 <h1>Hi, I'm Walid! <br/>
-<a href="https://www.linkedin.com/in/joshmadakor/">IT Security </a>
+<a href="https://www.linkedin.com/in/joshmadakor/">IT Security Engineer</a>
 <h2>🎓 Education:</h2>
 - <b>Master in IT Security </b>
   - University of Passau 2022/2025<br/>
@@ -13,16 +13,17 @@
   - Fnpos 2022/2025
 
 <h2>📜 Certifications:</h2>
-
-
-
+- <b>JR Penetration Tester Certificate</b> – Jul 2024<br/>
+- <b>ISC² Certified in Cybersecurity (CC)</b> – Jan 2024<br/>
+- <b>Certificate of Participation</b> - Arduino WSN Workshop, LaSTIC Laboratory (Jun 2021)<br/>
 
 <h2>🎯 Projects:</h2>
 
 - <b>PowerShell</b>
+  - [Active Directory Home Lab](https://github.com/walid-lombarkia/ActiveDirectoryLab)
+    
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
