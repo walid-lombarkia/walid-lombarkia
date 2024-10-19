@@ -1,5 +1,5 @@
 <h1>Hi, I'm Walid! <br/>
-<a href="https://www.linkedin.com/in/joshmadakor/">IT Security Engineer</a>
+<a href="https://www.linkedin.com/in/walid-lombarkia/">IT Security Engineer</a>
 <h2>🎓 Education:</h2>
 - <b>Master in IT Security </b>
   - University of Passau 2022/2025<br/>
