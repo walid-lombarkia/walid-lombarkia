@@ -19,7 +19,7 @@
 
 <h2>🎯 Projects:</h2>
 
-- <b>PowerShell</b>
+
   - [Active Directory Home Lab](https://github.com/walid-lombarkia/ActiveDirectoryLab)
     
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
