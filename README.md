@@ -23,7 +23,7 @@
 
   - [Active Directory Home Lab](https://github.com/walid-lombarkia/ActiveDirectoryLab)
 
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/walid-lombarkia/File-Integrity-Monitor)
     
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
