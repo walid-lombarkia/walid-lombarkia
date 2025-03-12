@@ -11,7 +11,7 @@
   
 <h2>👨‍💻 Work Experience:</h2>
 - <b>Data Analyst </b>
-  - Fnpos 2022/2025
+  - Fnpos 2019/2021
 
 <h2>📜 Certifications:</h2>
 - JR Penetration Tester Certificate – Jul 2024<br/>
