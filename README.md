@@ -24,6 +24,8 @@
   - [Active Directory Home Lab](https://github.com/walid-lombarkia/ActiveDirectoryLab)
 
   - [FIM (File Integrity Monitor)](https://github.com/walid-lombarkia/File-Integrity-Monitor)
+
+  - [Automated Threat Detection and Response System using Wazuh and TheHive]
     
 
   
