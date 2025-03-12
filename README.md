@@ -25,7 +25,7 @@
 
   - [FIM (File Integrity Monitor)](https://github.com/walid-lombarkia/File-Integrity-Monitor)
 
-  - [Automated Threat Detection and Response System using Wazuh and TheHive]
+  - [Automated Threat Detection and Response System using Wazuh and TheHive](https://github.com/walid-lombarkia/Automated_Threat_Detection_Response)
     
 
   
