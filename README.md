@@ -10,6 +10,8 @@
   - University of Batna 2012/2015<br/>
   
 <h2>👨‍💻 Work Experience:</h2>
+- <b> Indipendent Security Researcher </b>
+   2024-Current
 - <b>Data Analyst </b>
   - Fnpos 2019/2021
 
